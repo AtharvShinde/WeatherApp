@@ -1,6 +1,6 @@
 # WeatherApp
 
-<img src="WeatherApp/Image/screenshot.png" />
+<img src="WeatherApp/Image/screenshot.png" width="350" />
 
 **Requirements**
 - XCode 13
