@@ -1,4 +1,4 @@
-<p align="center"><img src="WeatherApp/WeatherApp/Image/2ABF6F51-B9F2-4869-87D4-DC40B1C601A8.jpeg" /></p>
+<p align="center"><img src="WeatherApp/WeatherApp/Image/screenshot.png" /></p>
 
 
 # WeatherApp
