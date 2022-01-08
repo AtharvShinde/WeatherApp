@@ -1,4 +1,4 @@
-<p align="center"><img src="WeatherApp/WeatherApp/Image/screenshot.png" /></p>
+<p align="center"><img src="WeatherApp/Image/screenshot.png" /></p>
 
 
 # WeatherApp
